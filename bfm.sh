@@ -1,5 +1,5 @@
 #uncomment next line for backups dev use only
-cp ./bfm.sh ./bfmbak.sh
+#cp ./bfm.sh ./bfmbak.sh
 VERSION="1.5"
 echo "welcome to bfm version $VERSION!!!, $USER"
 sleep .2
