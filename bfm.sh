@@ -1,3 +1,4 @@
+#!/bin/bash
 #uncomment next line for backups dev use only
 #cp ./bfm.sh ./bfmbak.sh
 VERSION="1.5"
